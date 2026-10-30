@@ -18,10 +18,10 @@ The `.nojekyll` file is included. All generated artwork is bundled locally. Goog
 
 - `index.html` — complete website and interaction code
 - `bitcoin-coin.png` — gold coin artwork
-- `trading-illustrations.png` — trading option illustrations
+- `trading-illustrations.png` — retained artwork from an earlier iteration
 - `tools-illustrations.png` — toolkit illustrations
 
 
 ## Liquid glass iteration — 29 October 2026
 
-Floating translucent navigation, reflective CTA controls, editorial news layout, staggered trading illustrations, compact toolkit rows and responsive single-column layouts. Reduced motion and increased contrast/transparency preferences have fallback styles. Existing static demo interactions and attribution are retained.
+Floating translucent navigation, reflective CTA controls, editorial news layout, a compact toolkit carousel and responsive layouts. Reduced motion and increased contrast/transparency preferences have fallback styles. Existing static demo interactions and attribution are retained.
